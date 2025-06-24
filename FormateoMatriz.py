@@ -1,6 +1,6 @@
 """
 Módulo para mostrar matrices con formato visual personalizado
-Autor: [Tu nombre]
+Autor: [Julian Gomez Brizuela]
 Versión: 1.0
 """
 
